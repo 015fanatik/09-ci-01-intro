@@ -19,6 +19,9 @@
 6. On test -> On fix, Done.
 7. Done -> Closed, Open.
 
+![lint](https://github.com/015fanatik/ansible_hw02/blob/76e8b119d6cf5ad7f29feda888e9ef35dbac0ee5/screenshots/lint.png)
+
+
 Остальные задачи должны проходить по упрощённому workflow:
 
 1. Open -> On develop.
@@ -26,6 +29,8 @@
 3. Done develop -> On test.
 4. On test -> On develop, Done.
 5. Done -> Closed, Open.
+
+![lint](https://github.com/015fanatik/ansible_hw02/blob/76e8b119d6cf5ad7f29feda888e9ef35dbac0ee5/screenshots/lint.png)
 
 **Что нужно сделать**
 
