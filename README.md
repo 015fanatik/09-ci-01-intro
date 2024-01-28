@@ -42,7 +42,7 @@
 2. Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания.
 
 
-![файлы](https://github.com/015fanatik/09-ci-01-intro/tree/99a1d009b983b4a5cf81956f9414bdeff4e936d3/files)
+[файлы](https://github.com/015fanatik/09-ci-01-intro/tree/99a1d009b983b4a5cf81956f9414bdeff4e936d3/files)
 ---
 
 ### Как оформить решение задания
